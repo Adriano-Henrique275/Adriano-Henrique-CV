@@ -179,6 +179,8 @@ body {
 }
 
 p {
+  text-align: justify;
+  text-indent: 4em;
   color: #333;
 }
 
